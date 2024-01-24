@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OrteipX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrteipX&layout=compact&langs_count=7&theme=dark"/>
 </div>
--->
+
 
 <div style="display: inline_block" align="center"><br/><br/>
   <img align="center" alt="OrteipX-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
@@ -45,6 +45,7 @@
 <div style="display: inline_block" align="center"><br/>
     <img align="center" alt="OrteipX-dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />
 </div>
+-->
 <div style="display: inline_block" align="center"><br/><br/>
     <a href = "mailto:ramon.ggarcia@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ramongnangarcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
